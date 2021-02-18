@@ -8,6 +8,8 @@ wp-content/*
 !wp-content/plugins/
 !wp-content/themes/
 
+.idea
+
 # ignore these plugins
 wp-content/plugins/hello.php
 
